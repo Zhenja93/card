@@ -1,0 +1,39 @@
+body {
+    background: url("../img/pattern.png");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:1.5;
+    font-size: 17px;
+
+    margin:0;
+}
+.card {
+   width: 400px; 
+   margin:45px auto;
+   background-color:white;
+   box-shadow: 0 5px 15px rgb(17, 15, 15);
+   border-radius: 15px;
+   padding: 20px;
+}
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color:#255829;
+}
+.card-text {
+    font-size: 15px;
+    color:#421313d1;
+}
+.card-cubtitle {
+    font-size:18px;
+    color: #601212;
+}
+.mail-list {
+    font-size: 14px;
+}
